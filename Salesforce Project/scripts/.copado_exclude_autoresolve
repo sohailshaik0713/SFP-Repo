@@ -1,0 +1,11 @@
+#All Classes
+**/*.Classes
+
+#All Visualforce Pages
+**/*.page
+
+#All LWC Components
+**/lwc/**
+
+#All Aura Bundles
+**/aura/**
